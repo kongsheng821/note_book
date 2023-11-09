@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "702b482bd7a6ec18",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab9d1316f3110a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd01f68d11ef082c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15b373cf80a9dc4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b10ed0034a7f738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "473226c4bbae2f25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f574cd20d0148512",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "枚举",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69b6b5fd7fa211d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47a1b56858ea6909",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d051ae6f4be4c0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8412be1628c1655e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f791e88f20668bce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dceb2488a7ad85db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cc8f3b8c1def97d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "473226c4bbae2f25",
+  "lastOpenFiles": [
+    "note_book/自学情况/二维数组/img/1698651479753.png",
+    "note_book/自学情况/二维数组/img/1698631341774.png",
+    "note_book/自学情况/二维数组/img/1698629906705.png",
+    "note_book/自学情况/二维数组/img/1698625724216.png",
+    "note_book/自学情况/二维数组/img/1698583936338.png",
+    "note_book/自学情况/二维数组/img/1698583822224.png",
+    "note_book/自学情况/二维数组/img/1698583649115.png",
+    "note_book/自学情况/二维数组/img/1698583578015.png",
+    "note_book/自学情况/二维数组/二维数组.md",
+    "note_book/自学情况/二维数组/img",
+    "note_book/自学情况/for/for循环.md",
+    "note_book/自学情况/二维数组",
+    "note_book/自学情况/for",
+    "note_book/自学情况",
+    "note_book/预科c综合复习/4结构体.md",
+    "note_book/预科c综合复习/3函数.md",
+    "note_book/预科c综合复习/2指针.md",
+    "note_book/预科c综合复习/1数组.md",
+    "note_book/预科c综合复习",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/十进制转换其他进制/十进制转化为二进制.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/转换为十进制/二进制转换为十进制.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/八进制转化为十六进制/八进制转化为十六进制.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/十进制转换其他进制/十进制转化为十六进制.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/十进制转换其他进制/十进制转化为八进制.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/二进制转化其他进制/二进制转换为八进制.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/二进制转化其他进制/二进制转化为十六进制.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/转换为十进制",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/总结.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/八进制转化为十六进制",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/十进制转换其他进制",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换/二进制转化其他进制",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/整数/整数常量格式.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/整型变量/通过关键字判断值是否正负.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/整数/整数常量.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/整型变量/通过二进制（存储）判断正负.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/整型变量/概念.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/整型变量/整型类型的分类.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/整型变量/书写问题.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/补充内容/2.常量是如何保存在变量空间当中.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/补充内容/1.定义变量.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/浮点型/浮点型变量.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/浮点型/存储.md",
+    "note_book/第一周内容/3.预科C第三天/数据类型/基本数据类型/整型/进制之间的转换",
+    "note_book/第一周内容/3.预科C第三天/img/输入输出的缓冲区概念.png",
+    "note_book/第一周内容/3.预科C第三天/img/整型变量.png",
+    "note_book/第一周内容/3.预科C第三天/img/1698392074134.png"
+  ]
+}
